@@ -1,0 +1,3 @@
+Make a when flag clicked, forever if. then make coustumes called idle 1, idle 2, idle 3, and up down left and right. also make a varabile called idle. do forever if idle = 1 then
+turn coustume into idle 1, wait 0.088 seconds, then idle 2, wait 0.088, then idle 3, wait 0.40 seconds. Then do when arrow key up, clicked, set idle to 0, turn costume into up,
+then wait 0.40 seconds, then switch costume into idle 1,
